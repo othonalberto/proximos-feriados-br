@@ -1,0 +1,16 @@
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+*.sublime-project
+*.sublime-workspace
+.vscode/
+npm-debug.log*
+
+node_modules/
+tmp/
+temp/
+
+.DS_Store
+Thumbs.db

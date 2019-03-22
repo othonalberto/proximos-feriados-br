@@ -1,0 +1,29 @@
+{
+  "name": "proximos-feriados-br",
+  "version": "1.0.0",
+  "main": "index.js",
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {},
+  "description": "Biblioteca desenvolvida para retornar os próximos feriados nacionais no formato {nome: 'NomeLegal', data: 'DD/MM/AAAA'}, utilizando a API [Nager.Date](https://date.nager.at/).",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/othonalberto/proximos-feriados-br.git"
+  },
+  "keywords": [
+    "feriados",
+    "brasil",
+    "br",
+    "feriado",
+    "holiday"
+  ],
+  "author": "Othon Briganó",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/othonalberto/proximos-feriados-br/issues"
+  },
+  "homepage": "https://github.com/othonalberto/proximos-feriados-br#readme"
+}
