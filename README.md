@@ -1,6 +1,8 @@
 # Próximos Feriados BR
 
-Biblioteca desenvolvida para retornar os próximos feriados **nacionais** no formato {nome: 'NomeLegal', data: 'DD/MM/AAAA'}, utilizando a API [Nager.Date](https://date.nager.at/).
+Biblioteca desenvolvida para retornar os próximos feriados **nacionais** no formato {nome: 'NomeDoFeriado', data: 'DD/MM/AAAA'}, utilizando a API [Nager.Date](https://date.nager.at/).
+
+Desenvolvida por Othon Briganó.
 
 # Como utilizar
 
@@ -11,7 +13,7 @@ Exemplos:
 
 ```
 
-// consulta executada em 22/03/2019
+// consulta realizada em 22/03/2019
 
 const { proximosFeriados } = require('proximos-feriados-br')
 
@@ -25,7 +27,7 @@ proximosFeriados(2)
 ```
 
 ```
-// consulta executada em 22/03/2019
+// consulta realizada em 22/03/2019
 
 const { proximosFeriados } = require('proximos-feriados-br')
 
